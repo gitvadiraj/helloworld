@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><link rel="stylesheet" type="text/css" href="style.css"><title>My resume</title></head>
+<head><link rel="stylesheet" type="text/css" href="html/style.css"><title>My resume</title></head>
 <body>
 <div class="header">
  <h3><div id="v">VADIRAJ PUJAR </div>Email:vadirajpujar@gmail.com</h3><h3>Contact:9620776012</h3></div>
